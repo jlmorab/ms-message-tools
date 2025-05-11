@@ -11,7 +11,7 @@
 	</parent>
 	
 	<artifactId>ms-message-tools</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>ms-message-tools</name>
 	<description>Common message broker configuration</description>
 	
